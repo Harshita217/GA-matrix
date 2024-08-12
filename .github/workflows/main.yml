@@ -1,4 +1,3 @@
-Click on actions and click on setup a workflow yourself. Configure YAML as follows:
 name: Python CI Pipeline
 
 on: [push, pull_request]
